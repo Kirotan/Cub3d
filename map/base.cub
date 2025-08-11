@@ -1,0 +1,15 @@
+F 10,1,200
+C 200,1,000
+
+EA textures/cib.png
+NO textures/cor.png
+SO textures/vin.png
+WE textures/obs.png
+
+  11111111
+ 10000000011
+ 110000011001
+1000000011001
+101000000001
+10000S00001
+ 111111111
